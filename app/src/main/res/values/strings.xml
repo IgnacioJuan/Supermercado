@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Supermercado</string>
+    <string name="nombre_comercial">Nombre comercial</string>
+    <string name="representante_legal">Representante legal</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Telefono</string>
+    <string name="productos">Productos</string>
+    <string name="credito">Credito</string>
+    <string name="ruc">Ruc</string>
+    <string name="crear">Crear</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="listar">Listar</string>
+    <string name="buscar">Buscar</string>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="imagen">Imagen</string>
+
+</resources>
