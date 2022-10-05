@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_color"
+    tools:context=".MenuPrincipal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="317dp"
+            tools:src="@drawable/repartidor" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="OPCIONES"
+            android:textAlignment="center"
+            android:textSize="34sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_crud"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Proveedores" />
+
+        <Button
+            android:id="@+id/btn_verproveedores"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ver Proveedores" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/Supermercado/app/src/main/res/drawable/bg_color.xml" value="0.1885" />
+        <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/Supermercado/app/src/main/res/layout/activity_lista_proveedores.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/Supermercado/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
-        <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/Supermercado/app/src/main/res/layout/detalleproveedores.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/Supermercado/app/src/main/res/layout/activity_menu_principal.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/DELL/Documents/M4A/PROGRAMACION DE APLICACIONES MOVILES/Supermercado/app/src/main/res/layout/detalleproveedores.xml" value="0.67" />
       </map>
     </option>
   </component>

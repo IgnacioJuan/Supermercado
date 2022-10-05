@@ -86,6 +86,11 @@ public class Proveedor {
         String sql="select _rowid_ as _id,* from Proveedor";
         return sqlHelper.getReadableDatabase().rawQuery(sql,null);
     }
+    public static Cursor buscarProveedor(Context mc, String param){
+        SqlHelper sqlHelper=new SqlHelper(mc);
+        String sql="select _rowid_ as _id,* from Proveedor where ruc like '"+ param +"%' or nombre_comercial like '"+ param +"%' ";
+        return sqlHelper.getReadableDatabase().rawQuery(sql,null);
+    }
     //Geters y seters
 
     public String getRuc() {

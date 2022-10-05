@@ -14,5 +14,6 @@
     <string name="buscar">Buscar</string>
     <string name="seleccionar">Seleccionar</string>
     <string name="imagen">Imagen</string>
+    <string name="TutoCrud">Para realizar una modificacion o un eliminado, ingrese en el campo de ruc el id que sera afectado</string>
 
 </resources>
